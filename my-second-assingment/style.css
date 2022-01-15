@@ -50,6 +50,7 @@ body style start
 .body-left{
     margin: 0px 20%;
     background-image: url(images/Circle\ design.svg);
+    background-repeat: no-repeat;
     
     
 }
