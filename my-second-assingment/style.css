@@ -107,9 +107,9 @@ body style start
 
 .first-product{
     padding: 10px 30px;
-    border: #f4feff solid;
+    border: #d3d8d8 solid;
     margin: 10px 20px;
-    background-color: #e8eff0;
+    background-color: hsl(0, 0%, 100%);
     /* box-shadow: 10px 10px solid rgb(8, 7, 7); */
     
 }
